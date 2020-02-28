@@ -1,17 +1,17 @@
 class exercicio{
     public static void main(String[] arg){
         int i = 150;
-        int j = 1;
 
         while(i <= 300){
             System.out.println("[" + i + "] ");
             i = i + 1;
         }
 
-        while(j <= 1000){
-            System.out.println("[" + j + "] ");
-            j = j + 1;
+        int soma = 0
+        for(int j = 1; j<= 1000; j++){
+            soma = soma + j;
         }
+        System.out.println(soma);
 
         int l = 0;
         int result = 0;
