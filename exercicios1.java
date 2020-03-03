@@ -1,5 +1,5 @@
-class exercicio{
-    public static void main(String[] arg){
+class exercicio1{
+    public static void main(String[] args){
         int i = 150;
 
         while(i <= 300){
